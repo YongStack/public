@@ -1,2 +1,2 @@
 # public
-personal git project
+public git project
